@@ -1,0 +1,6 @@
+# github.com/kolo/xmlrpc v0.0.0-20200310150728-e0350524596b
+## explicit
+github.com/kolo/xmlrpc
+# github.com/skilld-labs/go-odoo v1.5.0
+## explicit; go 1.14
+github.com/skilld-labs/go-odoo
